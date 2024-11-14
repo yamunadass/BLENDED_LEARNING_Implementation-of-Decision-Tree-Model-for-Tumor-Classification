@@ -73,8 +73,10 @@ plt.show()
 ```
 
 ## Output:
-![alt text](Exp-8-Output.PNG)
-![alt text](Exp-8-Chart.PNG)
+![image](https://github.com/user-attachments/assets/110fe244-3dff-4c5f-a5c1-ae5b337481b5)
+
+
+![image](https://github.com/user-attachments/assets/e8243c0c-2012-4349-ba15-e065acc891a9)
 
 ## Result:
 Thus, the Decision Tree model was successfully implemented to classify tumors as benign or malignant, and the model’s performance was evaluated.
